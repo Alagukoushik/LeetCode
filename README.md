@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Alagukoushik/LeetCode/tree/master/0268-missing-number) |
+| [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Alagukoushik/LeetCode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
