@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1954-replace-all-digits-with-characters](https://github.com/Alagukoushik/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/Alagukoushik/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Matrix
