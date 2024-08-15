@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/Alagukoushik/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2365-percentage-of-letter-in-string](https://github.com/Alagukoushik/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
 | [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Alagukoushik/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-lemonade-change](https://github.com/Alagukoushik/LeetCode/tree/master/0890-lemonade-change) |
 | [3151-minimum-processing-time](https://github.com/Alagukoushik/LeetCode/tree/master/3151-minimum-processing-time) |
+## Simulation
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Alagukoushik/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
