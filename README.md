@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Alagukoushik/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3151-minimum-processing-time](https://github.com/Alagukoushik/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/Alagukoushik/LeetCode/tree/master/3221-find-the-peaks) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Alagukoushik/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Alagukoushik/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Alagukoushik/LeetCode/tree/master/3429-special-array-i) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Alagukoushik/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/Alagukoushik/LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
