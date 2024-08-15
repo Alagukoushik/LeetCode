@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/Alagukoushik/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Alagukoushik/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Alagukoushik/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/Alagukoushik/LeetCode/tree/master/3221-find-the-peaks) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Alagukoushik/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Alagukoushik/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Alagukoushik/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Alagukoushik/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alagukoushik/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Counting
