@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Alagukoushik/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Alagukoushik/LeetCode/tree/master/0268-missing-number) |
+| [0890-lemonade-change](https://github.com/Alagukoushik/LeetCode/tree/master/0890-lemonade-change) |
 | [1319-unique-number-of-occurrences](https://github.com/Alagukoushik/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Alagukoushik/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Alagukoushik/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Alagukoushik/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
