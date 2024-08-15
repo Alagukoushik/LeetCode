@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Alagukoushik/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Alagukoushik/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/Alagukoushik/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3429-special-array-i](https://github.com/Alagukoushik/LeetCode/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
