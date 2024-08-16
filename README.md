@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Alagukoushik/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Alagukoushik/LeetCode/tree/master/0268-missing-number) |
+| [3321-type-of-triangle](https://github.com/Alagukoushik/LeetCode/tree/master/3321-type-of-triangle) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Alagukoushik/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Alagukoushik/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-count-tested-devices-after-test-operations](https://github.com/Alagukoushik/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/Alagukoushik/LeetCode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Alagukoushik/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/Alagukoushik/LeetCode/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Alagukoushik/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Alagukoushik/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Alagukoushik/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Alagukoushik/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3151-minimum-processing-time](https://github.com/Alagukoushik/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3226-minimum-number-game](https://github.com/Alagukoushik/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/Alagukoushik/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
