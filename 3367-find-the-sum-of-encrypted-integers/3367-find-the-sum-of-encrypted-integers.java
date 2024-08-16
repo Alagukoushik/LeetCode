@@ -1,6 +1,6 @@
 class Solution {
     public int sumOfEncryptedInt(int[] nums) {
-        ArrayList<Integer> a=new ArrayList<>();
+        int sum=0;
         for(int v:nums){
             int max=0;
             int i=0;
@@ -16,11 +16,7 @@ class Solution {
             for(int j=1;j<i;j++){
              ans=(ans*10)+max;
             }
-            a.add(ans);
-        }
-        int sum=0;
-        for(int v:a){
-            sum+=v;
+            sum+=ans;
         }
         return sum;
     }
